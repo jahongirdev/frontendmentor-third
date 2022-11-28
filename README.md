@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://your-solution-url.com)
-- Live Site URL: [Live Preview](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/jahongirdev/frontendmentor-third)
+- Live Site URL: [Live Preview](https://frontendmentor-third.netlify.app/)
 
 ### Built with
 
